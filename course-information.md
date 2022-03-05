@@ -56,13 +56,13 @@ Week 10:
 
 Week 11:
 
-Chapter 6 - pages 566 - 647
+- Chapter 6 - pages 566 - 647
 
 Week 12:
 
-Chapter 7 - pages - 647 - 701
+- Chapter 7 - pages - 647 - 701
 
 Week 13:
 
-Chapter 7 - pages 701 - 730 
-Review
+- Chapter 7 - pages 701 - 730 
+- Review
