@@ -14,6 +14,7 @@ Week 1:
 - Introductions
 - Course expectations
 - Exam information
+- Introduction to course
 - Code of Ethics - page 66-70
 
 Week 2:
